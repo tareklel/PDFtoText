@@ -1,2 +1,2 @@
 # PDFtoText
-convert pdfs to images and then xtext 
+convert pdfs to images and then text 
